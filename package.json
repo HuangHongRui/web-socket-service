@@ -1,0 +1,14 @@
+{
+  "name": "web-socket-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./app.js"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2",
+    "ws": "^8.8.1"
+  }
+}
